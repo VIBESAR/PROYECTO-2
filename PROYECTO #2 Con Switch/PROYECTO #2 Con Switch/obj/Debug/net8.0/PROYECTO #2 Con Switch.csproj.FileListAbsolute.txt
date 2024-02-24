@@ -1,0 +1,14 @@
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\bin\Debug\net8.0\PROYECTO #2 Con Switch.exe
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\bin\Debug\net8.0\PROYECTO #2 Con Switch.deps.json
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\bin\Debug\net8.0\PROYECTO #2 Con Switch.runtimeconfig.json
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\bin\Debug\net8.0\PROYECTO #2 Con Switch.dll
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\bin\Debug\net8.0\PROYECTO #2 Con Switch.pdb
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\obj\Debug\net8.0\PROYECTO #2 Con Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\obj\Debug\net8.0\PROYECTO #2 Con Switch.AssemblyInfoInputs.cache
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\obj\Debug\net8.0\PROYECTO #2 Con Switch.AssemblyInfo.cs
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\obj\Debug\net8.0\PROYECTO #2 Con Switch.csproj.CoreCompileInputs.cache
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\obj\Debug\net8.0\PROYECTO #2 Con Switch.dll
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\obj\Debug\net8.0\refint\PROYECTO #2 Con Switch.dll
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\obj\Debug\net8.0\PROYECTO #2 Con Switch.pdb
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\obj\Debug\net8.0\PROYECTO #2 Con Switch.genruntimeconfig.cache
+C:\Users\canch\source\repos\PROYECTO #2 Con Switch\PROYECTO #2 Con Switch\obj\Debug\net8.0\ref\PROYECTO #2 Con Switch.dll
